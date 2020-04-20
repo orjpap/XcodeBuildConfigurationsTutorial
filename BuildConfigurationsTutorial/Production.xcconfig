@@ -1,0 +1,15 @@
+//
+//  Production.xcconfig
+//  BuildConfigurationsTutorial
+//
+//  Created by Orestis on 20/4/20.
+//  Copyright © 2020 Orestis Papadopoulos. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-BuildConfigurationsTutorial/Pods-BuildConfigurationsTutorial.production.xcconfig"
+
+BACKEND_URL = https:/$()/my.production.api/v1
+APP_NAME = Production

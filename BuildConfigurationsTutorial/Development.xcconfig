@@ -1,0 +1,15 @@
+//
+//  Development.xcconfig
+//  BuildConfigurationsTutorial
+//
+//  Created by Orestis on 20/4/20.
+//  Copyright © 2020 Orestis Papadopoulos. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-BuildConfigurationsTutorial/Pods-BuildConfigurationsTutorial.development.xcconfig"
+
+BACKEND_URL = https:/$()/my.test.api/v1
+APP_NAME = Development
