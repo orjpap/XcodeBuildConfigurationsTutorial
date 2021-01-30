@@ -10,6 +10,6 @@ target 'BuildConfigurationsTutorial' do
   use_frameworks!
 
   # Pods for BuildConfigurationsTutorial
-  pod 'CryptoSwift', '~> 1.0'
+  pod 'CryptoSwift', '~> 1.0', :configuration => 'Development'
 
 end

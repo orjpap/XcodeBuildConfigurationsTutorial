@@ -472,6 +472,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = me.orestisPapadopoulos.BuildConfigurationsTutorial;
 				PRODUCT_NAME = BuildConfigurationsTutorial;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -553,6 +554,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = me.orestisPapadopoulos.BuildConfigurationsTutorial;
 				PRODUCT_NAME = BuildConfigurationsTutorial;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEVELOPMENT;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
